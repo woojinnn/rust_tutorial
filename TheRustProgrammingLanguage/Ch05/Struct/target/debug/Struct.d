@@ -1,0 +1,1 @@
+/home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch05/Struct/target/debug/Struct: /home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch05/Struct/src/lib.rs /home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch05/Struct/src/main.rs

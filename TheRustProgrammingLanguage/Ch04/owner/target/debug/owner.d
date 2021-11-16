@@ -1,0 +1,1 @@
+/home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch04/owner/target/debug/owner: /home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch04/owner/src/lib.rs /home/woojin/rust_tutorial/TheRustProgrammingLanguage/Ch04/owner/src/main.rs
